@@ -14,4 +14,5 @@ In summary 519 council homes demolished on the Elmington estate, with 136 replac
 
 
 [www.35percent.org/elmington-estate](http://35percent.org/elmington-estate-regeneration/)
-[https://southwarknotes.wordpress.com/local-development-sites/elmington-estate-se5/]
+
+[Southwark Notes Elmington Estate SE5](https://southwarknotes.wordpress.com/local-development-sites/elmington-estate-se5/)
