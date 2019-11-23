@@ -11,6 +11,6 @@ In 2014 Southwark's in-house architect said that in her [Public Inquiry evidence
 
 She claims that _"the scale and orthogonal formation of the blocks does not correspond to human scale, nor does it create opportunities for neighbourliness and local neighbourhood identity"_ and is [elsewhere](https://www.building.co.uk/aylesbury-estate-taking-back-the-streets/5040143.article) quoted as saying:_"We're determined to break down the estate concept."_
 
-In 2016, the demolition was temporarily halted as the government [blocked the council's compulsory purchase order](https://www.bbc.co.uk/news/uk-england-london-37417949) on the grounds that leaseholders' human rights were being breached.  A further CPO was sought and granted in 2018.
+In 2016, the demolition was temporarily halted as the government [blocked the council's compulsory purchase order](https://www.bbc.co.uk/news/uk-england-london-37417949) on the grounds that leaseholders' human rights were being breached.  A further CPO was sought and [granted in 2018](https://www.ftbchambers.co.uk/news/aylesbury-estate-cpo-confirmed-secretary-state).
 
 [www.35percent.org/aylesbury-estate](http://35percent.org/aylesbury-estate)
