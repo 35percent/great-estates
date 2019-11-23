@@ -11,4 +11,4 @@ The Council has also been busy selling off land; recent sales include [a plot ne
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
 
 
-[Source: 35percent.org/the-southwark-clearances/#municipal-fire-sale](35percent.org/the-southwark-clearances/#municipal-fire-sale)
+[www.35percent.org/the-southwark-clearances/#municipal-fire-sale](35percent.org/the-southwark-clearances/#municipal-fire-sale)
