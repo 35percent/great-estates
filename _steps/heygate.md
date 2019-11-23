@@ -11,6 +11,6 @@ The replacement development, Elephant Park (along with [Trafalgar Place](http://
 
 The estate was fully decanted of residents by the beginning of 2008. Council tenants were promised a "Right to Return", but the lack of social housing on the new development and the passage of time rendered this largely useless.  The 180 or so leaseholders had to depend on inadequate compensation to buy their new homes and many moved [out of London](http://35percent.org/2013-06-08-the-heygate-diaspora/).
 
-In 2017 an investigation of the London housing market by Transparency International - ['Faulty Towers'](https://www.transparency.org.uk/publications/faulty-towers-understanding-the-impact-of-overseas-corruption-on-the-london-property-market/) found that 'off-plan' sales of new homes, before they were built, was 'dominated' by overseas investors. 
+In 2017 an investigation of the London housing market by Transparency International - ['Faulty Towers'](https://www.transparency.org.uk/publications/faulty-towers-understanding-the-impact-of-overseas-corruption-on-the-london-property-market/) - found that 'off-plan' sales of new homes, before they were built, was 'dominated' by overseas investors. 
 
 [www.35percent.org/heygate-regeneration](http://35percent.org/heygate-regeneration)
