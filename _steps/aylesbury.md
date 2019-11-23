@@ -5,7 +5,7 @@ published: true
 ---
 ![](https://www.towerblock.eca.ed.ac.uk/sites/default/files/L40-09_0.jpg)
 
-Demolition continues of the 2,758 council homes on Southwark's largest estate - the Aylesbury. The estate has been sold to two housing associations (L&Q and Notting Hill Genesis). A total of beween 2,900 and nearly 4,000 new homes are planned, with a minimum of 935 'social rented', up to a maximum of 1,323.
+Demolition continues of the 2,758 council homes on Southwark's largest estate - the Aylesbury. The estate has been sold to two housing associations (L&Q and Notting Hill Genesis). A total of beween 2,900 and nearly 4,000 new homes is planned, with a minimum of 935 'social rented', up to a maximum of 1,323.
 
 In 2014 Southwark's in-house architect said that in her [Public Inquiry evidence](http://crappistmartin.github.io/images/Catherine_Bates2.pdf), _"the condition of the buildings does not, itself, present a case for demolition and redevelopment"_ but that the _"fundamental issue is the estate layout and the poor urban environment this presents"_. 
 
