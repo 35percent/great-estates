@@ -11,3 +11,5 @@ This scheme comprises [15 council-owned sites across a 50-acre area](https://www
 The scheme [also involved demolition](http://moderngov.southwark.gov.uk/Data/Executive/20060718/Agenda/Item%2014%20-%20Approval%20of%20Master%20Plan%20-%20Bermondsey%20Spa%20Site%20C.pdf) of several council buildings including offices that employed 640 Health & Social Care staff (Mabel Goldwin House) and a further 300 staff based at the council's Spa Road complex. Gibson House was also demolished, which ran an externalised residential service for adults with learning disabilities and a day care facility for older people with mental health problems.
 
 ![](http://35percent.org/img/lindenhomessite.jpg)
+
+[www.35percent.org/bermondsey-spa](http://35percent.org/bermondsey-spa)
