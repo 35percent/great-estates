@@ -9,4 +9,4 @@ Demolition starts on Coopers Road estate, which comprised 196 council homes in f
 
 The estate was sold to Countryside Properties and Peabody housing association, which built 247 new homes of which 107 were approved as social rent. We [have shown](http://35percent.org/redefining-social-rent) that these have instead been delivered as affordable rent - i.e. up to 80% market rent.
 
-[source: 35percent.org/coopers-road-estate](http://35percent.org/coopers-road-estate)
+[www.35percent.org/coopers-road-estate](http://35percent.org/coopers-road-estate)
