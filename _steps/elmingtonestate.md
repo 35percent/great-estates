@@ -13,4 +13,5 @@ The first phase of redevelopment, completed in 2006, was managed by Southwark co
 In summary 519 council homes demolished on the Elmington estate, with 136 replacement council homes (with another 120 homes at social/affordable rent) - a net loss of 383 council homes.  
 
 
-[www.35percent.org/elmington-estate](http://35percent.org/elmington-estate-regeneration/) 
+[www.35percent.org/elmington-estate](http://35percent.org/elmington-estate-regeneration/)
+[https://southwarknotes.wordpress.com/local-development-sites/elmington-estate-se5/]
