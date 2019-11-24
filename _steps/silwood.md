@@ -1,12 +1,13 @@
 ---
 title: Silwood estate
-date: 2004-01-27 00:00:00 -0700
+date: '2004-01-27 00:00:00 -0700'
+published: true
 ---
 
 ![](http://35percent.org/img/silwood90s.jpg)
 
-Decant starts on the 95 council homes on (phases 4a & 4b) Southwark's half of the Silwood estate (the estate straddles the boundary with Lewisham).
+Decant starts on 95 council homees, Silwood Estate, Rotherhithe.  This was phases 4a & 4b (Gillam House and Debnams Rd), Southwark's half of the estate, shared with Lewisham Council.  The site is handed to Notting Hill Genesis housing association, which has built 182 new homes of which 55 were approved as social rent. It has been [shown](http://35percent.org/redefining-social-rent/) that these 'social rented' homes have been delivered as affordable rent - i.e. up to 80% market rent.
 
-The site is handed to Notting Hill Genesis housing association, which has built 182 new homes of which 55 were approved as social rent. Again, we have [shown](http://35percent.org/redefining-social-rent/) that these 'social rented' homes have been delivered as affordable rent - i.e. up to 80% market rent.
+The Silwood regeneration was a joint regeneration, with Lewisham Council and starting in 2000 with SRB  funding.  Despite the public funding Site 4b was [designated as a 'private housing development'](http://moderngov.southwarksites.com/Published/C00000118/M00003082/AI00003831/$VarytermsofdisposalSilwoodPhase4BRotherhitheSE16open.docA.ps.pdf), with a 35% affordable housing requirement, reflecting 'the high concentration of social housing in the area' and the introduction of private housing to promote 'mixed and sustainable communities'.
 
 [Alternative image](http://35percent.org/img/swooddemo.jpeg)
