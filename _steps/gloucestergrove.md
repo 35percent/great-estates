@@ -12,6 +12,8 @@ Glocester Grove was one of the Five Estates, grouped by Southwark Council along 
 
 The number of homes on the Five Estates as a whole was reduced from 4,532 to 3,694, with 1,854 new homes built. In terms of tenure, 4,314 council homes were reduced to 2,154 council-rented, added to 915 housing association and 625 owner-occupied homes.
 
+According to the [Greater London Authority (GLA)](https://web.archive.org/web/20120713002910/http://legacy.london.gov.uk/mayor/planning_decisions/strategic_dev/dec1802/five_estates_peckham_report.rtf), 3203 homes were demolished, 2019 to be re-provided, including housing association and owner-occupied homes, _'for a more balanced tenure mix'_.  There was a net loss of 1184 dwellings, all originally council homes.    
+
 Note- refer to GLA report instead - http://35percent.org/north-peckham-estate/
 
 Source: [Muncipal Dreams](https://municipaldreams.wordpress.com/2016/10/11/the-five-estates-peckham-part-one/)
