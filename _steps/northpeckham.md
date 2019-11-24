@@ -8,7 +8,7 @@ published: true
 
 North Peckham was Southwark's first regeneration scheme, and entailed the complete demolition of the 40-acre estate of 1,444 council homes.
 
-North Peckham was one of the so-called Five Estates put together in the early 1990's, for the purposes of securing redevelopment funds from the government's Single Regeneration Budget (SRB).  The other estates in the group were North Peckham, Sumner, Willowbrook and Gloucester Grove.  North Peckham and Sumner were demolished, Willowbrook refurbished, Gloucester Grove part refurbished, part demolished
+North Peckham was one of the so-called Five Estates put together in the early 1990's, for the purposes of securing redevelopment funds from the government's Single Regeneration Budget (SRB).  The other estates in the group were North Peckham, Sumner, Willowbrook and Gloucester Grove.  North Peckham and Sumner were demolished, Willowbrook and Gloucester Grove part refurbished, part demolished.
 
 According to the [Greater London Authority (GLA)](https://web.archive.org/web/20120713002910/http://legacy.london.gov.uk/mayor/planning_decisions/strategic_dev/dec1802/five_estates_peckham_report.rtf), the Five Estate's scheme entailed the demolition of 3203 homes; 2019 were re-provided, including housing association and owner-occupied homes, (_'for a more balanced tenure mix'_)with a net loss of 1184 dwellings, all originally council homes.    
 
