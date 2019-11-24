@@ -9,6 +9,6 @@ In reponse to the government’s new Capital Receipts Initiative, Southwark’s 
 
 Southwark Council’s Director of Regeneration, Fred Manson, (who advised on Richard Rogers’s [Urban Task Force](http://image.guardian.co.uk/sys-files/Society/documents/2005/11/22/UTF_final_report.pdf), set up by the New abour government in the late 1990s) laid out the aims of the Labour council’s new [regeneration strategy](http://heygate.github.io/img/RegenerationStrategy.pdf): _"the use of Council assets to lever in investment .. through disposals, and re-investing resources in remaining assets."_
 
-Manson explains: _“We need to have a wider range of people living in the borough”_ because _“social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away.”_ 
+Mr Manson explained Southwark's regeneration thinking to the [Estates Gazzette Magazine](https://bit.ly/36OV20E): _“We need to have a wider range of people living in the borough”_ because _“social housing generates people on low incomes coming in and that generates poor school performances, middle-class people stay away.”_ 
 
-[Source: Estates Gazzette Magazine](https://bit.ly/36OV20E)
+
