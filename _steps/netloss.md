@@ -1,6 +1,7 @@
 ---
-title: "Disappearing council homes"
-date: 1997-06-03 00:00:00 -0700
+title: Disappearing council homes
+date: '1997-06-03 00:00:00 -0700'
+published: true
 ---
 
 Southwark has since seen a net loss of nearly 15,000 council homes. We chart the estate demolitions and how its regeneration policies have helped lead to this decline.
