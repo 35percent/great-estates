@@ -5,7 +5,7 @@ published: false
 ---
 In reponse to the government’s new Capital Receipts Initiative, Southwark’s Housing Committee approves the _‘Southwark Estates Initiative’_ and earmarks a number of council estates for redevelopment, which _“will result in the Council owning a smaller and higher quality housing stock.”_
 
-[Source: 15 Dec 1998 Housing Committee report](the 15th Dec 1998 Committee report - at Tab F1, pages 330A-345A of FVA First Tier Tribunal)
+[^1](Source: 15 Dec 1998 Housing Committee report(the 15th Dec 1998 Committee report - at Tab F1, pages 330A-345A of FVA First Tier Tribunal)
 
 Southwark Council’s Director of Regeneration, Fred Manson, (who advised on Richard Rogers’s [Urban Task Force](http://image.guardian.co.uk/sys-files/Society/documents/2005/11/22/UTF_final_report.pdf), set up by the New abour government in the late 1990s) laid out the aims of the Labour council’s new [regeneration strategy](http://heygate.github.io/img/RegenerationStrategy.pdf): _"the use of Council assets to lever in investment .. through disposals, and re-investing resources in remaining assets."_
 
