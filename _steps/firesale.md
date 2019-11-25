@@ -4,7 +4,7 @@ date: 2019-11-15 00:00:00 -0700
 ---
 ![](http://35percent.org/img/selloff2.png)
 
-Southwark's 'modernisation' drive has seen it sell off a number of municipal buildings including [Bermondsey, Peckham and Walworth Town Halls](http://35percent.org/southwark-town-halls/); [Harper Rd Social Services Centre](/img/23harperroad.pdf); [Tuke Street School](/woods-road); Castle Day Centre; [Whitstable Day Nursery; Abbey St Children's Home](http://moderngov.southwarksites.com/mgConvert2PDF.aspx?ID=7853); Willowbrook Community Centre; Wansey St Homeless Hostel; Manor Place baths, depot & coroners building; [Cherry Garden school](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6723); [Southwark Park Rd Day Centre](https://www.southwark.gov.uk/regeneration/southwark-regeneration-in-partnership-programme?chapter=14) and Bermondsey Library.
+Southwark's 'modernisation' drive has seen it sell off a number of municipal buildings including [Bermondsey, Peckham and Walworth Town Halls](http://35percent.org/southwark-town-halls/); [Harper Rd Social Services Centre](/img/23harperroad.pdf); [Tuke Street School](/woods-road); Castle Day Centre; [Whitstable Day Nursery; Abbey St Children's Home](http://moderngov.southwarksites.com/mgConvert2PDF.aspx?ID=7853); Willowbrook Community Centre; Wansey St Homeless Hostel; Manor Place baths, depot & coroners building; [Cherry Garden school](http://moderngov.southwark.gov.uk/ieDecisionDetails.aspx?Id=6723); [Southwark Park Rd Day Centre](http://moderngov.southwark.gov.uk/documents/s83680/Report%20Gateway%202%20345%20Southwark%20Park%20Road%20SE16.pdf) and Bermondsey Library.
 
 ![](http://35percent.org/img/selloff2.png)
 
