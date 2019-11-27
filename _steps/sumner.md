@@ -10,6 +10,4 @@ The Sumner estate is demolished as part of the Five Estates North Peckham regene
 
 The Sumner was the oldest of the Five Estates and of a type familiar across London - low rise, red brick and built in a traditional architectural style by the [London County Council](https://en.wikipedia.org/wiki/London_County_Council).
 
-NB Another photo of actual estate from Municipal Dreams?
-
-[Source: http://research.gold.ac.uk](http://research.gold.ac.uk/8715/1/ANT_thesis_GlucksbergL_2013.pdf)
+[Source: http://research.gold.ac.uk/8715/1/ANT_thesis_GlucksbergL_2013.pdf](http://research.gold.ac.uk/8715/1/ANT_thesis_GlucksbergL_2013.pdf)
