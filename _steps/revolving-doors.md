@@ -1,6 +1,7 @@
 ---
 title: Revolving doors
 date: 2019-12-12 00:00:00 -0700
+published: false
 ---
 
 Several politicians (from all political parties) and officers that have been involved in Southwark's regeneration are now working in the private development industry. Here are some examples:
