@@ -1,5 +1,5 @@
 ---
-title: Disappearing council homes
+title: Housing stock decline
 date: '2019-09-03 00:00:00 -0700'
 published: true
 ---
