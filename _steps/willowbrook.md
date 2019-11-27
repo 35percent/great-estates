@@ -8,5 +8,3 @@ published: true
 
 Tonbridge House, the main block on the Willowbrook estate, containing 112 council homes demolished as part of the Five Estates regeneration of North Peckham.  A series of four storey maisionettes remain.
 
-Source: [Municipal Dreams](https://municipaldreams.wordpress.com/2016/10/11/the-five-estates-peckham-part-one/)
-.
