@@ -6,9 +6,7 @@ published: true
 
 ![](https://www.towerblock.eca.ed.ac.uk/sites/default/files/L39-14.jpg)
 
-Demolition starts on Coopers Road estate, Old Kent Rd.  It comprised 196 council homes in five blocks - two 15-storey tower blocks (Yeoman Court & Marchant Court) and three lower level maisonette blocks.
-
-The estate was redeveloped as part of the ‘Southwark Estates Initiative’ (link broken), a late 1990s regeneration strategy devised by Southwark’s Labour administration as part of New Labour’s ‘Urban Task Force’ urban renewal strategy.  The four-phase development was completed in 2015.
+Demolition starts on Coopers Road estate, Old Kent Rd.  It comprised 196 council homes in five blocks - two 15-storey tower blocks (Yeoman Court & Marchant Court) and three lower level maisonette blocks. The final phase of the four-phase development was completed in 2015.
 
 The estate's land was sold by Southwark to Countryside Properties and Peabody housing association for a total of £4.09m. They built 247 new homes of which 107 were approved as social rent. However, data from the Greater London Authority (GLA) [shows that](http://35percent.org/redefining-social-rent) have instead been delivered as affordable rent - i.e. up to 80% market rent.
 
