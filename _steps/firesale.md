@@ -10,6 +10,3 @@ The Council is also selling off land; recent sales include [a plot near Millwall
 
 
 <a href="http://35percent.org/img/soldland.png"><img src="http://35percent.org/img/soldland.png"></a>
-
-
-[www.35percent.org/the-southwark-clearances/#municipal-fire-sale](35percent.org/the-southwark-clearances/#municipal-fire-sale)
